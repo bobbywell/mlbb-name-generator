@@ -36,7 +36,7 @@ npm install
 npm run dev
 ```
 
-打开 [http://localhost:3000](http://localhost:3000) 查看结果。
+打开 [free mbll name generator](https://mlbbnamegenerator.com) 查看结果。
 
 ## 📁 项目结构
 
@@ -147,9 +147,6 @@ npm run e2e          # 运行E2E测试
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 打开一个 Pull Request
 
-## 📄 许可证
-
-MIT 许可证 - 详情请参阅 [LICENSE](LICENSE) 文件。
 
 ## 🙋‍♂️ 常见问题
 
